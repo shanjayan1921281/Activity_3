@@ -1,0 +1,6 @@
+{
+  "name": "College Placement Management System",
+  "description": "Full-stack College Placement Management System with role-based access, student & company management, placement drives, eligibility checking, and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
